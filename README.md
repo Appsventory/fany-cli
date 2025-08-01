@@ -61,7 +61,7 @@ go build -o fany ./cmd/fany
 | ------------------ | -------------------------------- |
 | Create new project | `fany new Blog --dir ~/Projects` |
 | Force online pull  | `fany get-new Blog`              |
-| Clone repository   | `fany git-clone laravel/laravel` |
+| Clone repository   | `fany git-clone Appsventory/NineVerse` |
 | Initialize cache   | `fany cache-init ./NineVerse`    |
 | Update cache       | `fany cache-update`              |
 | Install Git        | `fany git-install`               |
